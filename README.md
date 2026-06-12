@@ -257,7 +257,7 @@ openpyxl
 |---|---|
 | 📊 Tableau Dashboard | *Coming Soon* |
 | 💼 LinkedIn | *Your LinkedIn URL* |
-| 📧 Contact | *taskinmulani@gmail.com* |
+| 📧 Contact | *Your Email* |
 
 ---
 
